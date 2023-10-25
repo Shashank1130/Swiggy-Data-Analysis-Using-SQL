@@ -25,7 +25,7 @@ veg_or_nonveg
 ### Questions Explored
 In this project, we addressed several key questions, each offering unique insights into the Swiggy restaurant data. These questions include:
 
-How many restaurants have a rating greater than 4.5?
+How many restaurants have a rating greater than 4.5? 
 Which city has the highest number of restaurants?
 How many restaurants have the word "PIZZA" in their name?
 What is the most common cuisine among the restaurants in the dataset?
