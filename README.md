@@ -27,29 +27,14 @@ The dataset used for this analysis is stored in a PostgreSQL database and consis
 
 
 ### Questions Explored
-1. In this project, we addressed several key questions, each offering unique insights into the Swiggy restaurant data. These questions include:
+In this project, we addressed several key questions, each offering unique insights into the Swiggy restaurant data. These questions include:
 
-2. How many restaurants have a rating greater than 4.5? 
-
-3. Which city has the highest number of restaurants?
-
-4. How many restaurants have the word "PIZZA" in their name?
-
-5. What is the most common cuisine among the restaurants in the dataset?
-
-6. What is the average rating of restaurants in each city?
-
-7. .....
-
-9. What is the highest price of an item under the 'RECOMMENDED' menu category for each restaurant?
-Find the top 5 most expensive restaurants that offer cuisine other than Indian cuisine.
-Find the restaurants with an average cost higher than the total average cost of all restaurants.
-Retrieve the details of restaurants that share the same name but are located in different cities.
-Which restaurant offers the most items in the 'MAIN COURSE' category?
-List the names of vegetarian restaurants in alphabetical order.
-Identify the restaurant with the lowest average item price.
-Find the top 5 restaurants offering the highest number of menu categories.
-Determine the restaurant providing the highest percentage of non-vegetarian food.
+- How many restaurants have a rating greater than 4.5? 
+- Which city has the highest number of restaurants?
+- How many restaurants have the word "PIZZA" in their name?
+- What is the most common cuisine among the restaurants in the dataset?
+- What is the average rating of restaurants in each city?
+- ......
 
 
 ### Getting Started
