@@ -12,18 +12,18 @@ This project involves an in-depth analysis of Swiggy restaurant data using Postg
 ### Dataset
 The dataset used for this analysis is stored in a PostgreSQL database and consists of the following columns:
 
-restaurant_no
-restaurant_name
-city
-address
-rating
-cost_per_person
-cuisine
-restaurant_link
-menu_category
-item
-price
-veg_or_nonveg
+- restaurant_no
+- restaurant_name
+- city
+- address
+- rating
+- cost_per_person
+- cuisine
+- restaurant_link
+- menu_category
+- item
+- price
+- veg_or_nonveg
 
 
 ### Questions Explored
