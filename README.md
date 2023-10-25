@@ -3,7 +3,8 @@
 
 ## Swiggy Data Analysis
 
-![images](https://github.com/Shashank1130/Swiggy-Data-Analysis-Using-SQL/assets/107529934/69175d6e-d49d-4194-884d-42b33cb2f3e6)
+![Swiggy_logo svg](https://github.com/Shashank1130/Swiggy-Data-Analysis-Using-SQL/assets/107529934/3ad63629-55eb-453b-a878-5be288485fc3)
+
 
 
 Overview
