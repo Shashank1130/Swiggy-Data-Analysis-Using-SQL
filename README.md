@@ -35,7 +35,7 @@ In this project, we addressed several key questions, each offering unique insigh
 - How many restaurants have the word "PIZZA" in their name?
 - What is the most common cuisine among the restaurants in the dataset?
 - What is the average rating of restaurants in each city?
-- ......
+- and many more ........
 
 
 ### Getting Started
