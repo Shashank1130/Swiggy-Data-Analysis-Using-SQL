@@ -26,10 +26,15 @@ veg_or_nonveg
 In this project, we addressed several key questions, each offering unique insights into the Swiggy restaurant data. These questions include:
 
 How many restaurants have a rating greater than 4.5? 
+
 Which city has the highest number of restaurants?
+
 How many restaurants have the word "PIZZA" in their name?
+
 What is the most common cuisine among the restaurants in the dataset?
+
 What is the average rating of restaurants in each city?
+
 What is the highest price of an item under the 'RECOMMENDED' menu category for each restaurant?
 Find the top 5 most expensive restaurants that offer cuisine other than Indian cuisine.
 Find the restaurants with an average cost higher than the total average cost of all restaurants.
