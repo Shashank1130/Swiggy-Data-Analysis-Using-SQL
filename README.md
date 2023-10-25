@@ -2,7 +2,9 @@
 
 
 ## Swiggy Data Analysis
-![Swiggy_logo svg](https://github.com/Shashank1130/Swiggy-Data-Analysis-Using-SQL/assets/107529934/a4b99318-8f6d-4f6c-88b5-03e1779ab3c6)
+
+![images](https://github.com/Shashank1130/Swiggy-Data-Analysis-Using-SQL/assets/107529934/69175d6e-d49d-4194-884d-42b33cb2f3e6)
+
 
 Overview
 This project involves an in-depth analysis of Swiggy restaurant data using PostgreSQL. The dataset encompasses a variety of restaurant details, such as names, cities, ratings, cuisines, and more. The project focuses on answering specific questions and drawing meaningful insights from the data.
@@ -25,19 +27,21 @@ veg_or_nonveg
 
 
 ### Questions Explored
-In this project, we addressed several key questions, each offering unique insights into the Swiggy restaurant data. These questions include:
+1. In this project, we addressed several key questions, each offering unique insights into the Swiggy restaurant data. These questions include:
 
-How many restaurants have a rating greater than 4.5? 
+2. How many restaurants have a rating greater than 4.5? 
 
-Which city has the highest number of restaurants?
+3. Which city has the highest number of restaurants?
 
-How many restaurants have the word "PIZZA" in their name?
+4. How many restaurants have the word "PIZZA" in their name?
 
-What is the most common cuisine among the restaurants in the dataset?
+5. What is the most common cuisine among the restaurants in the dataset?
 
-What is the average rating of restaurants in each city?
+6. What is the average rating of restaurants in each city?
 
-What is the highest price of an item under the 'RECOMMENDED' menu category for each restaurant?
+7. .....
+
+9. What is the highest price of an item under the 'RECOMMENDED' menu category for each restaurant?
 Find the top 5 most expensive restaurants that offer cuisine other than Indian cuisine.
 Find the restaurants with an average cost higher than the total average cost of all restaurants.
 Retrieve the details of restaurants that share the same name but are located in different cities.
