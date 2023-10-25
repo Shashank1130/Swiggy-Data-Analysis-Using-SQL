@@ -2,6 +2,8 @@
 
 
 ## Swiggy Data Analysis
+![Swiggy_logo svg](https://github.com/Shashank1130/Swiggy-Data-Analysis-Using-SQL/assets/107529934/a4b99318-8f6d-4f6c-88b5-03e1779ab3c6)
+
 Overview
 This project involves an in-depth analysis of Swiggy restaurant data using PostgreSQL. The dataset encompasses a variety of restaurant details, such as names, cities, ratings, cuisines, and more. The project focuses on answering specific questions and drawing meaningful insights from the data.
 
