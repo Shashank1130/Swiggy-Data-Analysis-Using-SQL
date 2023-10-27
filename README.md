@@ -1,7 +1,7 @@
-# Swiggy-Data-Analysis-Using-SQL
+# DATABITE - Swiggy Analytics
 
 
-## Swiggy Data Analysis
+## Data Analysis
 
 ![Swiggy_logo svg](https://github.com/Shashank1130/Swiggy-Data-Analysis-Using-SQL/assets/107529934/3ad63629-55eb-453b-a878-5be288485fc3)
 
